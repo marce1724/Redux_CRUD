@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "Ice Cream vanilla",
+      "precio": "500",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa y mora",
+      "precio": "150",
+      "id": 5
+    },
+    {
+      "nombre": "panqueques y wafles",
+      "precio": "700",
+      "id": 13
+    }
+  ]
+}
